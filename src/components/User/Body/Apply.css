@@ -1,0 +1,31 @@
+.centerDiv{
+    background-color: white;
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+    /* height: 600px; */
+}
+
+.centerDiv{
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.centerDiv > *{
+    padding: 5px;
+}
+
+
+
+.centerDiv{
+    text-align: center;
+}
+.btnapply{
+    border-radius: 4px;
+    background:linear-gradient(rgb(110, 108, 108),rgb(209, 155, 155))
+}
+.navapply{
+    text-decoration: none;
+    color:azure
+}
